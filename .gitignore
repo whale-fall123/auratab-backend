@@ -1,0 +1,13 @@
+# IDEA 项目配置
+.idea/
+*.iml
+*.iws
+
+# Maven 构建输出
+target/
+
+# 日志文件
+*.log
+
+# 本地数据文件
+data/

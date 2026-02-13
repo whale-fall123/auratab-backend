@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  address: 127.0.0.1
+
+spring:
+  application:
+    name: auratab-backend
+
+logging:
+  level:
+    com.auratab: DEBUG
+    org.springframework.web: INFO
